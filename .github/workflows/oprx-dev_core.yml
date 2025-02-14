@@ -40,7 +40,7 @@ jobs:
         elif [ "${{ matrix.target }}" = "armsr-armv8" ]; then
           echo "target=armv8-6.12" >> "$GITHUB_ENV"
         elif [ "${{ matrix.target }}" = "x86_64" ]; then
-          echo "target=x86_64-6.13" >> "$GITHUB_ENV"
+          echo "target=x86_64-6.12" >> "$GITHUB_ENV"
         fi
 
     - name: Sync kernel modules
