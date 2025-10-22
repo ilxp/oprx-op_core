@@ -23,13 +23,13 @@ Depends: libc, lm-sensors, ethtool
 Source: feeds/base/system/autocore/autocore-arm
 SourceName: autocore
 Section: opt
-SourceDateEpoch: 1761081863
+SourceDateEpoch: 1761105425
 Maintainer: Lean / CN_SZTL
 Architecture: x86_64
 Installed-Size: 51200
 Filename: autocore-x86_1.0.0-r1_x86_64.ipk
-Size: 12410
-SHA256sum: abf4a34a94f78db800360db8442850349ca98105b74f2c1b379733a9d52344f7
+Size: 12407
+SHA256sum: 8ff5cb1b03ac3ee6366421e687cd4ad42ce6468b3bb295f48f79b74ab193b294
 Description:  x86/x64 auto core loadbalance script.
 
 Package: base-files
@@ -42,10 +42,10 @@ Section: base
 SourceDateEpoch: 1761039550
 URL: http://openwrt.org/
 Architecture: x86_64
-Installed-Size: 50114560
+Installed-Size: 50073600
 Filename: base-files_1~25.10.22_x86_64.ipk
-Size: 22080946
-SHA256sum: 7e9d2c69f4152c41e8291f03ac1a604d4f8d9f960691273119153df23ff0fd17
+Size: 22062872
+SHA256sum: 7b09bc508a602db8a992833344e42ef1e8e276624242aab064ed4f9934acd70f
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
@@ -9012,12 +9012,12 @@ SourceName: jool
 License: GPL-2.0-only
 LicenseFiles: COPYING
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 Architecture: x86_64
 Installed-Size: 430080
 Filename: kmod-jool-netfilter_6.12.54.4.1.13-r1_x86_64.ipk
-Size: 117296
-SHA256sum: e3f30a7f816dcd4399514b71b308e2b136eb34174ab1f50e553abd38f9c3726b
+Size: 117325
+SHA256sum: 0f5fa6fb216edcfeb36e207dad3479a2d19eb2fbec845c2c7f3b9dcb6930b8f4
 Description:  Jool is an Open Source SIIT and NAT64 for Linux.
  
  This package provides the kernel module for Jool with netfilter API Only.
@@ -10018,14 +10018,14 @@ SourceName: macremapper
 License: GPL-2.0-only
 LicenseFiles: kernelmod/COPYING
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 URL: https://www.edgewaterwireless.com
 Maintainer: Carey Sonsino <careys@edgewaterwireless.com>
 Architecture: x86_64
 Installed-Size: 51200
 Filename: kmod-macremapper_6.12.54.1.1.0-r2_x86_64.ipk
-Size: 11655
-SHA256sum: 13ba4c819f4377fc7897db23acc3e78073e63a965f460ae95c5c99065ac85f94
+Size: 11652
+SHA256sum: f788dbac0b8c2926c4ca4fd8afa7209d379e544a716c63a1be6943e523fcc726
 Description:  Linux kernel module for implementation the DCW filtering mechanism
 
 Package: kmod-macsec
@@ -10218,14 +10218,14 @@ SourceName: mdio-netlink
 License: GPL-2.0-only
 LicenseFiles: COPYING
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 URL: https://github.com/wkz/mdio-tools.git
 Maintainer: Damien Mascord <tusker@tusker.org>
 Architecture: x86_64
 Installed-Size: 20480
 Filename: kmod-mdio-netlink_6.12.54.1.3.1-r2_x86_64.ipk
-Size: 4893
-SHA256sum: 7fea32cfe78362f61030dad023976f14446f38404c682087ef40d067919927df
+Size: 4897
+SHA256sum: 42c47c4e0d41237d90d33ae9b6c5cbfc02a2cf941ae1aebb87c8c18419a23b65
 Description:  mdio-netlink Linux MDIO netlink kernel module
 
 Package: kmod-mdio
@@ -11719,14 +11719,14 @@ Source: feeds/packages/admin/netatop
 SourceName: netatop
 License: GPL-2.0
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 URL: https://www.atoptool.nl/
 Maintainer: Toni Uhlig <matzeton@googlemail.com>
 Architecture: x86_64
 Installed-Size: 40960
 Filename: kmod-netatop_6.12.54.3.1-r1_x86_64.ipk
-Size: 9121
-SHA256sum: 597a5c5373ddaca2551e288af2393104c6d50a662aaf23c075db5018f40a1d1b
+Size: 9128
+SHA256sum: f5497f411388aaafdd99bd574cc25ecc8f4c0109e21992d3fe16943bf82af5ae
 Description:  The optional kernel module netatop can be loaded to gather statistics about
  the TCP and UDP packets that have been transmitted/received per process and
  per thread. As soon as atop discovers that this module is active, it shows
@@ -13009,14 +13009,14 @@ SourceName: openvswitch
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 CPE-ID: cpe:/a:openvswitch:openvswitch
 Maintainer: Yousong Zhou <yszhou4tech@gmail.com>
 Architecture: x86_64
 Installed-Size: 20480
 Filename: kmod-openvswitch-geneve_6.12.54.2.17.9-r1_x86_64.ipk
-Size: 4640
-SHA256sum: ce78664c2084725b72f196106bd9795597fd9d6e9c8c9153a82377e2c70fe35c
+Size: 4643
+SHA256sum: 294caaee91c3def84f13655c28cbbe6abd9b1ed9f72325e94fb3b9ea40aa636d
 Description:  Open vSwitch Geneve tunneling support (upstream)
 
 Package: kmod-openvswitch-gre
@@ -13027,14 +13027,14 @@ SourceName: openvswitch
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 CPE-ID: cpe:/a:openvswitch:openvswitch
 Maintainer: Yousong Zhou <yszhou4tech@gmail.com>
 Architecture: x86_64
 Installed-Size: 20480
 Filename: kmod-openvswitch-gre_6.12.54.2.17.9-r1_x86_64.ipk
-Size: 4354
-SHA256sum: 1b10d86c5dbbe426a94d1a53aff62fbc9815e2e59f59b38365a0d0e5d4753752
+Size: 4353
+SHA256sum: e45f40587c504c9f91ce537ea62f4ac95e7e94ded0b4d68493191ac3c1752fc7
 Description:  Open vSwitch GRE tunneling support (upstream)
 
 Package: kmod-openvswitch-vxlan
@@ -13045,14 +13045,14 @@ SourceName: openvswitch
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 CPE-ID: cpe:/a:openvswitch:openvswitch
 Maintainer: Yousong Zhou <yszhou4tech@gmail.com>
 Architecture: x86_64
 Installed-Size: 20480
 Filename: kmod-openvswitch-vxlan_6.12.54.2.17.9-r1_x86_64.ipk
-Size: 5644
-SHA256sum: dffb9a3614023ddb628d4a2c58bc6a38238da36305397c3f578259e8b1117233
+Size: 5641
+SHA256sum: 2f82d1c76d19260758d7a453c5d1cde703c17aecbf4f713212709a26d46f0f8f
 Description:  Open vSwitch VXLAN tunneling support (upstream)
 
 Package: kmod-openvswitch
@@ -13063,14 +13063,14 @@ SourceName: openvswitch
 License: Apache-2.0
 LicenseFiles: LICENSE
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 CPE-ID: cpe:/a:openvswitch:openvswitch
 Maintainer: Yousong Zhou <yszhou4tech@gmail.com>
 Architecture: x86_64
 Installed-Size: 296960
 Filename: kmod-openvswitch_6.12.54.2.17.9-r1_x86_64.ipk
-Size: 92345
-SHA256sum: 3760f23d225ca1c6361ce3729f6119e014182a77995a25b859ad2f03d92960ae
+Size: 92367
+SHA256sum: 48005abbacd5dcbcc69cb50e42a84c837364858f7cf051625ef41540444bcde7
 Description:  Open vSwitch kernel datapath (upstream)
 
 Package: kmod-ovpn-dco-v2
@@ -13080,13 +13080,13 @@ Source: feeds/packages/kernel/ovpn-dco
 SourceName: ovpn-dco
 License: GPL-2.0-only
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: x86_64
 Installed-Size: 112640
 Filename: kmod-ovpn-dco-v2_6.12.54.0.2.20240320-r1_x86_64.ipk
-Size: 32451
-SHA256sum: fe66d0f0d11d25fd9093e7510441d751e45b88edd74ff17d81c1d252a985196f
+Size: 32452
+SHA256sum: febc8a2c9f16c8e045cc676a6434e4a3f1e734932ab377df18457a9158a4e852
 Description:  This module enhances the performance of the OpenVPN userspace software
  by offloading the data channel processing to kernelspace.
 
@@ -13290,13 +13290,13 @@ Source: feeds/packages/libs/libpfring
 SourceName: libpfring
 License: GPL-2.0-or-later
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 Maintainer: Banglang Huang <banglang.huang@foxmail.com>
 Architecture: x86_64
 Installed-Size: 225280
 Filename: kmod-pf-ring_6.12.54.8.6.1-r1_x86_64.ipk
-Size: 65626
-SHA256sum: ece0f166ccf53ffecd9bcbde20191cd24c1fcc929bfaefaa0f4b0e427ade528a
+Size: 65591
+SHA256sum: 5f6ab03b2df9089f40a6a6ee23a6bb2931772d55111f98ddf68ceff5728c87c4
 Description:  Kernel module for libpf-ring package
 
 Package: kmod-phy-airoha-en8811h
@@ -16187,13 +16187,13 @@ Source: feeds/packages/net/siit
 SourceName: siit
 License: GPL-2.0-or-later
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 Maintainer: Vladimir Ulrich <admin@evl.su>
 Architecture: x86_64
 Installed-Size: 30720
 Filename: kmod-siit_6.12.54.1.2-r4_x86_64.ipk
-Size: 6563
-SHA256sum: 637c3ca9c93ddc8f1b63fa230c03f900e2ef688e48456fdd4e91947e6a42fcac
+Size: 6577
+SHA256sum: f6d3bcee0c6fca013b54a5949e4d2b60425d02f65ef153f7b95b4c2ca190b073
 Description:  Stateless IP ICMP Translation Algorithm
 
 Package: kmod-sis190
@@ -18889,14 +18889,14 @@ Depends: kernel (=6.12.54~02ad3acf92b54c639415e6b8d87300cf-r1), kmod-video-core
 Source: feeds/packages/kernel/v4l2loopback
 SourceName: v4l2loopback
 Section: kernel
-SourceDateEpoch: 1760974184
+SourceDateEpoch: 1761090285
 CPE-ID: cpe:/o:v4l2loopback_project:v4l2loopback
 Maintainer: Michel Promonet <michel.promonet@free.fr>
 Architecture: x86_64
 Installed-Size: 143360
 Filename: kmod-v4l2loopback_6.12.54.0.13.2-r1_x86_64.ipk
-Size: 43044
-SHA256sum: 49c56e5a5e336ff553677d8ea2cc86eb5113972617cbbd1276e24e83d603be3b
+Size: 43034
+SHA256sum: 4830d980167de960a6dcdd85e63e6056cdd765f57b20260798e9e3ba63fd6569
 Description:  This module allows you to create "virtual video devices".
  Normal (v4l2) applications will read these devices as if
  they were ordinary video devices, but the video will not be
