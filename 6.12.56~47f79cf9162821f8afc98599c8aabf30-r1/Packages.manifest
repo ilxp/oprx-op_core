@@ -23,13 +23,13 @@ Depends: libc, lm-sensors, ethtool
 Source: feeds/base/system/autocore/autocore-arm
 SourceName: autocore
 Section: opt
-SourceDateEpoch: 1761846802
+SourceDateEpoch: 1761860867
 Maintainer: Lean / CN_SZTL
 Architecture: x86_64
 Installed-Size: 51200
 Filename: autocore-x86_1.0.0-r1_x86_64.ipk
-Size: 12410
-SHA256sum: cdb4a68b57809f9d5394e199e0ac60f500519d5297fc6eb977bace8e9039e20a
+Size: 12407
+SHA256sum: 4cab0a648ff309430c85f66936a0493534dfbf78fced50ba13fd68f147c05321
 Description:  x86/x64 auto core loadbalance script.
 
 Package: base-files
@@ -44,8 +44,8 @@ URL: http://openwrt.org/
 Architecture: x86_64
 Installed-Size: 50432000
 Filename: base-files_1~25.10.31_x86_64.ipk
-Size: 22181972
-SHA256sum: d9b880efc4cc33c57db94c1f6441d6f176b91286c505f9c33162dab219743e52
+Size: 22181973
+SHA256sum: 2967d3aa1d2b9e1a33cde2179722d4b125bf4ff5f708962b9c7bd0cf628c5627
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
