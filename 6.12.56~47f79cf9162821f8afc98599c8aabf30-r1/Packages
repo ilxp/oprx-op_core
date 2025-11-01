@@ -21,8 +21,8 @@ Section: opt
 Architecture: x86_64
 Installed-Size: 51200
 Filename: autocore-x86_1.0.0-r1_x86_64.ipk
-Size: 12415
-SHA256sum: 3b8c84aef59086aa75c805a4f2a817a3abb0f62018701395581d4286f28830bb
+Size: 12413
+SHA256sum: b18780b99df9c18ad95f05f33306f55e484290f64b3bca4948da9250e64507f9
 Description:  x86/x64 auto core loadbalance script.
 
 Package: base-files
@@ -34,8 +34,8 @@ URL: http://openwrt.org/
 Architecture: x86_64
 Installed-Size: 50380800
 Filename: base-files_1~25.11.1_x86_64.ipk
-Size: 22166966
-SHA256sum: 7b729ea02a6fa61943529e823af2f7dad7e73f7dcfa68ecb2faf5af6b7494d45
+Size: 22170856
+SHA256sum: 1ed846e31b271b257e146287bdb20c059a500806d7546d164199b5a8436e119e
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
@@ -2983,8 +2983,8 @@ CPE-ID: cpe:/o:linux:linux_kernel
 Architecture: x86_64
 Installed-Size: 18063360
 Filename: kmod-drm-amdgpu_6.12.56-r1_x86_64.ipk
-Size: 4267659
-SHA256sum: a544271036a8ef80d20855c5a0d1b1020d53c620c57e8c4188b248de8f0b2087
+Size: 4269263
+SHA256sum: af7f1007eea61f0dd3bd8810dad880e6c6a9737ee1778414931eef4c9350e13f
 Description:  Direct Rendering Manager (DRM) support for AMDGPU Cards
 
 Package: kmod-drm-buddy
@@ -8222,8 +8222,8 @@ CPE-ID: cpe:/o:linux:linux_kernel
 Architecture: x86_64
 Installed-Size: 1177600
 Filename: kmod-mlxsw-spectrum_6.12.56-r1_x86_64.ipk
-Size: 314138
-SHA256sum: 21e29f2be67247c6f7ddba00531af696913b25c2545dc710c39d46fe698e0c2a
+Size: 314164
+SHA256sum: 1d7422fc1bebd72a1d410474f15741be6afa76e254c60879183dc02a3c392d49
 Description:  This driver supports Mellanox Technologies
  Spectrum/Spectrum-2/Spectrum-3/Spectrum-4 Ethernet Switch ASICs.
 
@@ -12259,8 +12259,8 @@ CPE-ID: cpe:/o:linux:linux_kernel
 Architecture: x86_64
 Installed-Size: 266240
 Filename: kmod-sched_6.12.56-r1_x86_64.ipk
-Size: 71013
-SHA256sum: 3e70d9d49fe1cb0c7fdf26468d15b97903711ed989e6205d592267065d65444b
+Size: 71036
+SHA256sum: 7f9141bde8bf8de792733327e8a01437b78dbdb9dc1877026a0f979d7eb6b786
 Description:  Extra kernel schedulers modules for IP traffic
 
 Package: kmod-scsi-cdrom
@@ -15211,8 +15211,8 @@ CPE-ID: cpe:/o:linux:linux_kernel
 Architecture: x86_64
 Installed-Size: 122880
 Filename: kmod-video-tw686x_6.12.56-r1_x86_64.ipk
-Size: 40857
-SHA256sum: c2790c9bd7bbfe87640c23ce750c08125fa2758f61f914dbad25d9f56fcf36d5
+Size: 40862
+SHA256sum: 33df49faa9e3c22dcaea08535f568723b7593be84c56a5563fccd3a3362076d0
 Description:  The Intersil/Techwell TW686x kernel module
 
 Package: kmod-video-uvc
