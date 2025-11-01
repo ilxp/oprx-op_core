@@ -4,7 +4,7 @@
   "packages": {
     "arptables-nft": "1.8.10-r1",
     "autocore-x86": "1.0.0-r1",
-    "base-files": "1~25.10.31",
+    "base-files": "1~25.11.1",
     "block-mount": "2024.07.14~408c2cc4-r1",
     "blockd": "2024.07.14~408c2cc4-r1",
     "comgt-directip": "0.32-r36",
