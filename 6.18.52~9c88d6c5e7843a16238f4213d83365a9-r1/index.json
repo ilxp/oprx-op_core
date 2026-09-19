@@ -103,6 +103,8 @@
     "kmod-ata-via-sata": "6.18.52-r1",
     "kmod-ath": "6.18.52.6.18.39-r3",
     "kmod-ath10k": "6.18.52.6.18.39-r3",
+    "kmod-ath10k-ct": "6.18.52.2026.07.31~fcbdb70d-r1",
+    "kmod-ath10k-ct-smallbuffers": "6.18.52.2026.07.31~fcbdb70d-r1",
     "kmod-ath10k-pci": "6.18.52.6.18.39-r3",
     "kmod-ath10k-sdio": "6.18.52.6.18.39-r3",
     "kmod-ath10k-smallbuffers": "6.18.52.6.18.39-r3",
